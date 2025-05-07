@@ -1,5 +1,7 @@
-<h1 align = center> Luis Enrique Pinto, Systems Engineer </h1>
+<h1 align = center> Hi there!  </h1>
 <br/>
+Hi there! My name is Luis Pinto
+
 
 <h2 align=center> Contact </h2>
 
