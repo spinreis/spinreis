@@ -1,32 +1,28 @@
-<h1 align = center> Hi there!  </h1>
-<br/>
-Hi there! My name is Luis Pinto
-
-
-<h2 align=center> Contact </h2>
-
-<div align=center>
-  <a href="https://www.instagram.com/spinreis/" target="_blank">
-  <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-
-  <a href="https://github.com/spinreis" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-  <a href="mailto:pintoluis2410@gmail.com" target="_blank">
-  <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<div align="center">
+    <h1>Hi there! I'm Luis Pinto</h1>
 </div>
 
-<!--
-**spinreis/spinreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Venezuelan Systems Engineering student. I'm passionate about learning and developing skills for a lot of crucial technologies for IT and Software Development world. My philosophy is *"Learn whenever you can"* and that's what I've been doing these years studying my undergraduate degree which i'm finishing in June 2026. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm developing my degree final project: **An application for livestock population control**. This project is built with **Expo**, a framework for **React Native**, and **Express.js** with **TypeScript**. However, me and my partner are discusing about implementing some optimizations on **Go** or **Rust**.
+
+* 🌎 Caracas, Venezuela.
+
+## Technical Stack
+
+| Category | Tecnologies |
+| :--- | :--- |
+| **Languages** | `[JavaScript]` `[TypeScript]` `[C++]` `[Python]` |
+| **Back-End** | `[Node.js]` `[Express]` |
+| **Databases** | `[SQLite]` `[PostgreSQL]` `[MongoDB]`|
+| **DevOps and Tools** | `[Git]` `[Docker]` `[Linux]` `[PROXMOX]` |
+
+## 🔗 Need some help? Contact Me!
+
+| Plataform | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luispinto24/) |
+| **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spinreis/) |
+| **Email** | [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pintoluis2410@gmail.com) |
